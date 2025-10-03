@@ -14,6 +14,14 @@ pnpm dev
 bun dev
 ```
 
+Git Main Repo git remote add origin https://github.com/Itzzain9/Iman-Tech-Solution_LMS.git
+
+
+git add .
+git commit -m "Your message"
+git push
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
